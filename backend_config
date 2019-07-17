@@ -1,0 +1,6 @@
+dynamodb_table = "sonatype-dev-ops-dev-state-lock"
+bucket = "sonatype-dev-ops-dev-state"
+region = "us-west-1"
+role_arn = "arn:aws:iam::037041210863:role/admin"
+encrypt = "true"
+key = "aws_config_setup/billing/"
